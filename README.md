@@ -1,4 +1,4 @@
-![photo](https://github.com/ArnaudAubry49/CV/blob/main/IMG_1207.jpg)
+![photo] (https://github.com/ArnaudAubry49/CV/blob/main/IMG_1207.jpg)
 
  ## **AUBRY ARNAUD**
 
