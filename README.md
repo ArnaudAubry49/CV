@@ -1,4 +1,4 @@
-![photo] (https://github.com/ArnaudAubry49/CV/blob/main/IMG_1207.jpg)
+![photo](https://github.com/ArnaudAubry49/CV/blob/main/IMG_1207%20(2).jpg)
 
  ## **AUBRY ARNAUD**
 
@@ -15,7 +15,7 @@ soucieux du détail et passionné par la résolution d’incidents.
 
 ## **Informations Personnels**
 
- [linkedin] (https://www.linkedin.com/in/aubryarnaud?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRi8yt9A1RpmROojifDOy6A%3D%3D)
+ [linkedin](https://www.linkedin.com/in/aubryarnaud?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRi8yt9A1RpmROojifDOy6A%3D%3D)
 
 
 ## **Formations**
